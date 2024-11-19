@@ -2,6 +2,8 @@ import tkinter as tk
 from tkinter import simpledialog, messagebox
 from googletrans import Translator
 
+#Português para Inglês!
+
 # Função para copiar o texto para a área de transferência
 def copy_to_clipboard(text):
     root.clipboard_clear()
